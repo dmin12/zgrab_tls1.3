@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"net"
 
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // ReconnectFunction is used to re-connect to the target to re-try the scan with a different TSAP destination.

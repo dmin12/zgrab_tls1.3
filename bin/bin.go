@@ -15,7 +15,7 @@ import (
 	"github.com/zmap/zcrypto/encoding/asn1"
 	"github.com/zmap/zcrypto/x509/pkix"
 	flags "github.com/zmap/zflags"
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 func init() {

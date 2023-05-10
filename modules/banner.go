@@ -1,7 +1,7 @@
 package modules
 
 import (
-	"github.com/zmap/zgrab2/modules/banner"
+	"github.com/dmin12/zgrab_tls1.3/modules/banner"
 )
 
 func init() {

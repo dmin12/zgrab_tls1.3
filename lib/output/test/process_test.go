@@ -22,8 +22,8 @@ import (
 	"github.com/zmap/zcrypto/tls"
 	"github.com/zmap/zcrypto/x509"
 	"github.com/zmap/zcrypto/x509/pkix"
-	"github.com/zmap/zgrab2"
-	"github.com/zmap/zgrab2/lib/output"
+	"github.com/dmin12/zgrab_tls1.3"
+	"github.com/dmin12/zgrab_tls1.3/lib/output"
 )
 
 const doFailDiffs = false

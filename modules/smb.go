@@ -1,6 +1,6 @@
 package modules
 
-import "github.com/zmap/zgrab2/modules/smb"
+import "github.com/dmin12/zgrab_tls1.3/modules/smb"
 
 func init() {
 	smb.RegisterModule()

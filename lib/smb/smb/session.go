@@ -13,9 +13,9 @@ import (
 	"net"
 	"runtime/debug"
 
-	"github.com/zmap/zgrab2/lib/smb/gss"
-	"github.com/zmap/zgrab2/lib/smb/ntlmssp"
-	"github.com/zmap/zgrab2/lib/smb/smb/encoder"
+	"github.com/dmin12/zgrab_tls1.3/lib/smb/gss"
+	"github.com/dmin12/zgrab_tls1.3/lib/smb/ntlmssp"
+	"github.com/dmin12/zgrab_tls1.3/lib/smb/smb/encoder"
 )
 
 type Session struct {

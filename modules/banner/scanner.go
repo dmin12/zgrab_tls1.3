@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"encoding/hex"
 
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // Flags give the command-line flags for the banner module.

@@ -6,7 +6,7 @@ package bacnet
 
 import (
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // Scan results are in log.go

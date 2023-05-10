@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // ScanResults contains detailed information about each step of the

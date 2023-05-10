@@ -35,9 +35,9 @@ import (
 	"time"
 
 	"github.com/zmap/zcrypto/tls"
-	. "github.com/zmap/zgrab2/lib/http"
-	"github.com/zmap/zgrab2/lib/http/httptest"
-	"github.com/zmap/zgrab2/lib/http/httputil"
+	. "github.com/dmin12/zgrab_tls1.3/lib/http"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httptest"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httputil"
 )
 
 type dummyAddr string

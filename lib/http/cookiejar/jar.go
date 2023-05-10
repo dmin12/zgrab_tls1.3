@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/zmap/zgrab2/lib/http"
+	"github.com/dmin12/zgrab_tls1.3/lib/http"
 )
 
 // PublicSuffixList provides the public suffix of a domain. For example:

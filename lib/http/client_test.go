@@ -27,9 +27,9 @@ import (
 
 	"github.com/zmap/zcrypto/tls"
 	"github.com/zmap/zcrypto/x509"
-	. "github.com/zmap/zgrab2/lib/http"
-	"github.com/zmap/zgrab2/lib/http/cookiejar"
-	"github.com/zmap/zgrab2/lib/http/httptest"
+	. "github.com/dmin12/zgrab_tls1.3/lib/http"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/cookiejar"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httptest"
 )
 
 var robotsTxtHandler = HandlerFunc(func(w ResponseWriter, r *Request) {

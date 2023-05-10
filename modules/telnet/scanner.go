@@ -13,7 +13,7 @@ package telnet
 
 import (
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // Flags holds the command-line configuration for the Telnet scan module.

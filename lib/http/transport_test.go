@@ -32,12 +32,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zmap/zgrab2/lib/http/httputil"
-	//"github.com/zmap/zgrab2/lib/http/nettrace"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httputil"
+	//"github.com/dmin12/zgrab_tls1.3/lib/http/nettrace"
 	"github.com/zmap/zcrypto/tls"
-	. "github.com/zmap/zgrab2/lib/http"
-	"github.com/zmap/zgrab2/lib/http/httptest"
-	"github.com/zmap/zgrab2/lib/http/httptrace"
+	. "github.com/dmin12/zgrab_tls1.3/lib/http"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httptest"
+	"github.com/dmin12/zgrab_tls1.3/lib/http/httptrace"
 )
 
 // TODO: test 5 pipelined requests with responses: 1) OK, 2) OK, Connection: Close

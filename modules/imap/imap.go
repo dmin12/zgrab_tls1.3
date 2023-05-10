@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"io"
 
-	"github.com/zmap/zgrab2"
+	"github.com/dmin12/zgrab_tls1.3"
 )
 
 // This is the regex used in zgrab.
