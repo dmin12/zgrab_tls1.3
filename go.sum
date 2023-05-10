@@ -290,8 +290,6 @@ github.com/zmap/zcrypto v0.0.0-20220222153637-55904056ad9f/go.mod h1:64KeCzxyjA/
 github.com/zmap/zflags v1.4.0-beta.1/go.mod h1:HXDUD+uue8yeLHr0eXx1lvY6CvMiHbTKw5nGmA9OUoo=
 github.com/zmap/zflags v1.4.0-beta.1.0.20200204220219-9d95409821b6 h1:XYA+NN2AS4mRmIDVu2nCtrjU17zKlRihO3MnlcmueUw=
 github.com/zmap/zflags v1.4.0-beta.1.0.20200204220219-9d95409821b6/go.mod h1:HXDUD+uue8yeLHr0eXx1lvY6CvMiHbTKw5nGmA9OUoo=
-github.com/dmin12/zgrab_tls1.3 v0.1.7 h1:KsSNIZ914Yziw3aPftl+V3s4XHhv/MyLhtJCkEDIPHQ=
-github.com/dmin12/zgrab_tls1.3 v0.1.7/go.mod h1:juf45B9kUAkwZwwk8vlv+kCpLfdpY5gxgKJank90rVk=
 go.etcd.io/bbolt v1.3.3/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.etcd.io/etcd v0.0.0-20191023171146-3cf2f69b5738/go.mod h1:dnLIgRNXwCJa5e+c6mIZCrds/GIG4ncV9HhK5PX7jPg=
 go.opencensus.io v0.20.1/go.mod h1:6WKK9ahsWS3RSO+PY9ZHZUfv2irvY6gN279GOPZjmmk=
